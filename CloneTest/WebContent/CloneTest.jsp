@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-clone 테스트!!
+CloneTest
 </body>
 </html>
